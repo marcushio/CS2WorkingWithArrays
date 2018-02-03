@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=P3Program
+comment1.params=
+comment1.target=P3Program()
+comment1.text=\r\n\ Instantiate\ all\ the\ data\ structures\ we'll\ be\ testing.\r\n
+comment2.params=
+comment2.target=void\ fill()
+comment2.text=\r\n\ Fills\ both\ the\ ArrayList\ and\ the\ array\ with\ values.\ \ \r\n
+comment3.params=
+comment3.target=void\ increment()
+comment3.text=\r\n\ Increments\ every\ element\ in\ each\ data\ structure\ by\ 1.\ \r\n
+comment4.params=reportString
+comment4.target=void\ writeReport(java.lang.String)
+comment4.text=\r\n\ Writes\ the\ report\ with\ the\ data\ from\ the\ trial\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ The\ main\ method\ that\ calls\ all\ the\ methods\ from\ the\ class.\ \r\n
+numComments=6
