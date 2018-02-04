@@ -1,216 +1,108 @@
-Run # - 1
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.011000000
-int ArrayList - wall clock: 000.005000000
+Run #  1
+Fill the list: Number of Elements: 100000
+   int array - wall clock          : 000.010000000
+   int ArrayList - wall clock      : 000.005000000
 
-int array - CPU time: 000.010275754
-int ArrayList - CPU time: 000.004468282
+   int array - CPU time            : 000.010501110
+   int ArrayList - CPU time        : 000.004741386
 
-float array - wall clock: 000.002000000
-float ArrayList - wall clock: 000.010000000
+   float array - wall clock        : 000.003000000
+   float ArrayList - wall clock    : 000.005000000
 
-float array - CPU time: 000.002412418
-float ArrayList - CPU time: 000.010713524
-
-Increment the elements in the list: 
-int array - wall clock: 000.003000000
-int ArrayList - wall clock: 000.013000000
-
-int array - CPU time: 000.003152743
-int ArrayList - CPU time: 000.013524887
-
-float array - wall clock: 000.003000000
-float ArrayList - wall clock: 000.002000000
-
-float array - CPU time: 000.002983614
-float ArrayList - CPU time: 000.002141545
-
-Run # - 2
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.008000000
-int ArrayList - wall clock: 000.005000000
-
-int array - CPU time: 000.008169018
-int ArrayList - CPU time: 000.004584306
-
-float array - wall clock: 000.003000000
-float ArrayList - wall clock: 000.016000000
-
-float array - CPU time: 000.003411567
-float ArrayList - CPU time: 000.016521889
+   float array - CPU time          : 000.002392336
+   float ArrayList - CPU time      : 000.006411693
 
 Increment the elements in the list: 
-int array - wall clock: 000.000000000
-int ArrayList - wall clock: 000.003000000
+   int array - wall clock          : 000.004000000
+   int ArrayList - wall clock      : 000.062000000
 
-int array - CPU time: 000.000719798
-int ArrayList - CPU time: 000.001857285
+   int array - CPU time            : 000.004192501
+   int ArrayList - CPU time        : 000.061910228
 
-float array - wall clock: 000.000000000
-float ArrayList - wall clock: 000.001000000
+   float array - wall clock        : 000.005000000
+   float ArrayList - wall clock    : 000.002000000
 
-float array - CPU time: 000.000194118
-float ArrayList - CPU time: 000.001492700
+   float array - CPU time          : 000.004635179
+   float ArrayList - CPU time      : 000.001639516
 
-Run # - 3
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.003000000
-int ArrayList - wall clock: 000.004000000
+Run #  2
+Fill the list: Number of Elements: 100000
+   int array - wall clock          : 000.007000000
+   int ArrayList - wall clock      : 000.004000000
 
-int array - CPU time: 000.003343290
-int ArrayList - CPU time: 000.004696761
+   int array - CPU time            : 000.006596439
+   int ArrayList - CPU time        : 000.004269702
 
-float array - wall clock: 000.003000000
-float ArrayList - wall clock: 000.012000000
+   float array - wall clock        : 000.002000000
+   float ArrayList - wall clock    : 000.006000000
 
-float array - CPU time: 000.002747104
-float ArrayList - CPU time: 000.011999165
-
-Increment the elements in the list: 
-int array - wall clock: 000.000000000
-int ArrayList - wall clock: 000.003000000
-
-int array - CPU time: 000.000135214
-int ArrayList - CPU time: 000.002328076
-
-float array - wall clock: 000.000000000
-float ArrayList - wall clock: 000.001000000
-
-float array - CPU time: 000.000137444
-float ArrayList - CPU time: 000.001653349
-
-Run # - 4
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.003000000
-int ArrayList - wall clock: 000.004000000
-
-int array - CPU time: 000.003358463
-int ArrayList - CPU time: 000.004516030
-
-float array - wall clock: 000.003000000
-float ArrayList - wall clock: 000.040000000
-
-float array - CPU time: 000.002875177
-float ArrayList - CPU time: 000.039665207
+   float array - CPU time          : 000.002523086
+   float ArrayList - CPU time      : 000.005593273
 
 Increment the elements in the list: 
-int array - wall clock: 000.001000000
-int ArrayList - wall clock: 000.001000000
+   int array - wall clock          : 000.000000000
+   int ArrayList - wall clock      : 000.016000000
 
-int array - CPU time: 000.000141014
-int ArrayList - CPU time: 000.001793025
+   int array - CPU time            : 000.000745680
+   int ArrayList - CPU time        : 000.015253652
 
-float array - wall clock: 000.000000000
-float ArrayList - wall clock: 000.003000000
+   float array - wall clock        : 000.000000000
+   float ArrayList - wall clock    : 000.002000000
 
-float array - CPU time: 000.000110670
-float ArrayList - CPU time: 000.002144668
+   float array - CPU time          : 000.000214199
+   float ArrayList - CPU time      : 000.002029090
 
-Run # - 1
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.009000000
-int ArrayList - wall clock: 000.011000000
+Run #  3
+Fill the list: Number of Elements: 100000
+   int array - wall clock          : 000.003000000
+   int ArrayList - wall clock      : 000.007000000
 
-int array - CPU time: 000.009535429
-int ArrayList - CPU time: 000.010206140
+   int array - CPU time            : 000.002681059
+   int ArrayList - CPU time        : 000.006446946
 
-float array - wall clock: 000.004000000
-float ArrayList - wall clock: 000.004000000
+   float array - wall clock        : 000.002000000
+   float ArrayList - wall clock    : 000.005000000
 
-float array - CPU time: 000.003869863
-float ArrayList - CPU time: 000.004388404
-
-Increment the elements in the list: 
-int array - wall clock: 000.005000000
-int ArrayList - wall clock: 000.014000000
-
-int array - CPU time: 000.004521832
-int ArrayList - CPU time: 000.013816733
-
-float array - wall clock: 000.004000000
-float ArrayList - wall clock: 000.001000000
-
-float array - CPU time: 000.004560209
-float ArrayList - CPU time: 000.001413267
-
-Run # - 2
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.007000000
-int ArrayList - wall clock: 000.009000000
-
-int array - CPU time: 000.007141755
-int ArrayList - CPU time: 000.008448369
-
-float array - wall clock: 000.005000000
-float ArrayList - wall clock: 000.004000000
-
-float array - CPU time: 000.004907390
-float ArrayList - CPU time: 000.004100127
+   float array - CPU time          : 000.002492742
+   float ArrayList - CPU time      : 000.005151488
 
 Increment the elements in the list: 
-int array - wall clock: 000.001000000
-int ArrayList - wall clock: 000.003000000
+   int array - wall clock          : 000.000000000
+   int ArrayList - wall clock      : 000.013000000
 
-int array - CPU time: 000.000846979
-int ArrayList - CPU time: 000.003255379
+   int array - CPU time            : 000.000099960
+   int ArrayList - CPU time        : 000.012521275
 
-float array - wall clock: 000.001000000
-float ArrayList - wall clock: 000.002000000
+   float array - wall clock        : 000.000000000
+   float ArrayList - wall clock    : 000.001000000
 
-float array - CPU time: 000.000327546
-float ArrayList - CPU time: 000.002504790
+   float array - CPU time          : 000.000086126
+   float ArrayList - CPU time      : 000.001354809
 
-Run # - 3
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.003000000
-int ArrayList - wall clock: 000.009000000
+Run #  4
+Fill the list: Number of Elements: 100000
+   int array - wall clock          : 000.004000000
+   int ArrayList - wall clock      : 000.004000000
 
-int array - CPU time: 000.002634649
-int ArrayList - CPU time: 000.008849100
+   int array - CPU time            : 000.004173759
+   int ArrayList - CPU time        : 000.004069783
 
-float array - wall clock: 000.002000000
-float ArrayList - wall clock: 000.004000000
+   float array - wall clock        : 000.003000000
+   float ArrayList - wall clock    : 000.003000000
 
-float array - CPU time: 000.002349496
-float ArrayList - CPU time: 000.003831040
-
-Increment the elements in the list: 
-int array - wall clock: 000.000000000
-int ArrayList - wall clock: 000.001000000
-
-int array - CPU time: 000.000088357
-int ArrayList - CPU time: 000.001191036
-
-float array - wall clock: 000.001000000
-float ArrayList - wall clock: 000.001000000
-
-float array - CPU time: 000.000095051
-float ArrayList - CPU time: 000.001070103
-
-Run # - 4
-Fill the list: Number of elements: 100000
-int array - wall clock: 000.003000000
-int ArrayList - wall clock: 000.009000000
-
-int array - CPU time: 000.003336597
-int ArrayList - CPU time: 000.008288612
-
-float array - wall clock: 000.002000000
-float ArrayList - wall clock: 000.005000000
-
-float array - CPU time: 000.002649375
-float ArrayList - CPU time: 000.004436598
+   float array - CPU time          : 000.003063047
+   float ArrayList - CPU time      : 000.003318746
 
 Increment the elements in the list: 
-int array - wall clock: 000.001000000
-int ArrayList - wall clock: 000.003000000
+   int array - wall clock          : 000.000000000
+   int ArrayList - wall clock      : 000.011000000
 
-int array - CPU time: 000.000349412
-int ArrayList - CPU time: 000.002607428
+   int array - CPU time            : 000.000091927
+   int ArrayList - CPU time        : 000.011299002
 
-float array - wall clock: 000.000000000
-float ArrayList - wall clock: 000.002000000
+   float array - wall clock        : 000.000000000
+   float ArrayList - wall clock    : 000.001000000
 
-float array - CPU time: 000.000305234
-float ArrayList - CPU time: 000.002169658
+   float array - CPU time          : 000.000090588
+   float ArrayList - CPU time      : 000.000947831
 

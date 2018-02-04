@@ -77,7 +77,6 @@ public class P3Program
         startWallClockTime = System.currentTimeMillis(); 
         startCPUTime = System.nanoTime(); 
         for(int i = 0; i < COLLECTION_SIZE; i++){
-            //intList.set(i, randomGenerator.nextInt(RANDOM_MAX));
             intList.add(i, randomGenerator.nextInt(RANDOM_MAX)); 
         }
         stopWallClockTime = System.currentTimeMillis();  
@@ -88,7 +87,6 @@ public class P3Program
         startWallClockTime = System.currentTimeMillis(); 
         startCPUTime = System.nanoTime(); 
         for(int i = 0; i < COLLECTION_SIZE; i++){
-            //floatList.set(i, randomGenerator.nextFloat()); 
             floatList.add(i, randomGenerator.nextFloat()); 
         }
         stopWallClockTime = System.currentTimeMillis(); 
@@ -96,16 +94,15 @@ public class P3Program
         double floatListWallTime = stopWallClockTime - startWallClockTime;
         double floatListCPUTime = stopCPUTime - startCPUTime;
         
-        outputString =  "Run # - " + trials + 
-                        LS  + "Fill the list: Number of elements: " + COLLECTION_SIZE +  
-                        LS  + "int array - wall clock: " + formatter.format(intArrayWallTime/1000) + 
-                        LS  + "int ArrayList - wall clock: " + formatter.format(intListWallTime/1000) + 
-                        LS  + LS + "int array - CPU time: " + formatter.format(intArrayCPUTime/1000000000) + 
-                        LS  + "int ArrayList - CPU time: " + formatter.format(intListCPUTime/1000000000) + 
-                        LS  + LS + "float array - wall clock: " + formatter.format(floatArrayWallTime/1000) + 
-                        LS  + "float ArrayList - wall clock: " + formatter.format(floatListWallTime/1000) + 
-                        LS  + LS + "float array - CPU time: " + formatter.format(floatArrayCPUTime/1000000000) + 
-                        LS  + "float ArrayList - CPU time: " + formatter.format(floatListCPUTime/1000000000) + LS  + LS; 
+        outputString =  "Run #  " + trials + LS + "Fill the list: Number of Elements: " + COLLECTION_SIZE + 
+                        LS  + "   int array - wall clock          : " + formatter.format(intArrayWallTime/1000) + 
+                        LS  + "   int ArrayList - wall clock      : " + formatter.format(intListWallTime/1000) + 
+                        LS  + LS +  "   int array - CPU time            : " + formatter.format(intArrayCPUTime/1000000000) + 
+                        LS  + "   int ArrayList - CPU time        : " + formatter.format(intListCPUTime/1000000000) + 
+                        LS  + LS + "   float array - wall clock        : " + formatter.format(floatArrayWallTime/1000) + 
+                        LS  + "   float ArrayList - wall clock    : " + formatter.format(floatListWallTime/1000) + 
+                        LS  + LS + "   float array - CPU time          : " + formatter.format(floatArrayCPUTime/1000000000) + 
+                        LS  + "   float ArrayList - CPU time      : " + formatter.format(floatListCPUTime/1000000000) + LS  + LS; 
         System.out.println(outputString); 
         writeReport(outputString); 
     }
@@ -160,14 +157,14 @@ public class P3Program
         double floatListCPUTime = stopCPUTime - startCPUTime; 
       
         outputString =  "Increment the elements in the list: " + 
-                        LS  + "int array - wall clock: " + formatter.format(intArrayWallTime/1000) + 
-                        LS  + "int ArrayList - wall clock: " + formatter.format(intListWallTime/1000) + 
-                        LS  + LS + "int array - CPU time: " + formatter.format(intArrayCPUTime/1000000000) + 
-                        LS  + "int ArrayList - CPU time: " + formatter.format(intListCPUTime/1000000000) + 
-                        LS  + LS + "float array - wall clock: " + formatter.format(floatArrayWallTime/1000) + 
-                        LS  + "float ArrayList - wall clock: " + formatter.format(floatListWallTime/1000) + 
-                        LS  + LS + "float array - CPU time: " + formatter.format(floatArrayCPUTime/1000000000) + 
-                        LS  + "float ArrayList - CPU time: " + formatter.format(floatListCPUTime/1000000000) + LS  + LS; 
+                        LS  + "   int array - wall clock          : " + formatter.format(intArrayWallTime/1000) + 
+                        LS  + "   int ArrayList - wall clock      : " + formatter.format(intListWallTime/1000) + 
+                        LS  + LS +  "   int array - CPU time            : " + formatter.format(intArrayCPUTime/1000000000) + 
+                        LS  + "   int ArrayList - CPU time        : " + formatter.format(intListCPUTime/1000000000) + 
+                        LS  + LS + "   float array - wall clock        : " + formatter.format(floatArrayWallTime/1000) + 
+                        LS  + "   float ArrayList - wall clock    : " + formatter.format(floatListWallTime/1000) + 
+                        LS  + LS + "   float array - CPU time          : " + formatter.format(floatArrayCPUTime/1000000000) + 
+                        LS  + "   float ArrayList - CPU time      : " + formatter.format(floatListCPUTime/1000000000) + LS  + LS; 
         System.out.println(outputString); 
         writeReport(outputString); 
         intList.clear(); 
